@@ -1,5 +1,6 @@
-/*PRN: 24030331372901
- Name: Siddhant Chandrakant Bhanat
+/*PRN: 24030331372029
+
+ Name: Arshad Najir kawlekar 
  Title: Average via user input
  Date: 
  */
