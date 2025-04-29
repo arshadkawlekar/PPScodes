@@ -1,7 +1,4 @@
-/* Name:Siddhant Chandrakant Bhanat
-PRN:24030331372901
-Date:
-  */
+
 #include <stdio.h>
 int main() {
   int marks;
