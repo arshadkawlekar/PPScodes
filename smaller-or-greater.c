@@ -1,8 +1,4 @@
-/*PRN: 24030331372901
-  Name: Siddhant Chandrakant Bhanat
-  Title: Decisional statement(else_if)
-    Date:
-     */
+
 
 #include<stdio.h>
 int main(){
